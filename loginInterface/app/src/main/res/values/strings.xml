@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">login Interface</string>
+    <string name="name">Enter your Username</string>
+    <string name="password">Enter yout password</string>
+    <string name="remember">Remember me</string>
+    <string name="login">Login</string>
+    <string name="label">Welcome to KinderGarden</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464990954457",
+    "project_id": "detecting-face",
+    "storage_bucket": "detecting-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464990954457:android:e9725e7b54bc74d183efc8",
+        "android_client_info": {
+          "package_name": "com.raushan.detectingface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464990954457-1s8fh2kb1h3odtpdpnrd92u3medul20k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE2EoOgR7BdR0SgcyJPnjKi1qCsM0PRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464990954457-1s8fh2kb1h3odtpdpnrd92u3medul20k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
